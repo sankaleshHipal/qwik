@@ -1,7 +1,7 @@
 
 export const data = {
-    businessName: "h old trees cafe",
-    registeredName: "H Old Trees Cafe",
+    businessName: "trees cafe",
+    registeredName: "Trees Cafe",
     logo: "https://storage.hipal.life/minio/assets/8ca9fa55-8947-46f5-ae84-95c332f6e568",
     address:
       "Old trees cafe - kandlakoya, opp. Ksr convention kompally, Hyderabad, Telangana 501401",
